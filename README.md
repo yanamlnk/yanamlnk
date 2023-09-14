@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yana, and cutie on my avatar is my pokemon called Pika :heart: :zap:
+My name is Yana, and the cutie on my avatar is my pokemon called Pika :heart: :zap:
 
 I can code in **Java** :coffee:, and here you can find some projects I have created during my learning process:
 
