@@ -14,3 +14,7 @@ Also, I am a big fan of writing! My current **cheatsheets** are:
 - :elephant: [Gradle Notes](https://github.com/yanamlnk/gradle-notes) :elephant: - my cheatsheets for Gradle (and there is a chapter for :feather:[Maven](https://github.com/yanamlnk/gradle-notes/blob/main/contents/12-maven-notes/README.md):feather:, too!)
 - :rabbit: [Google Challenge](https://github.com/yanamlnk/google-challenge) :rabbit: - my explanations on tasks I have passes for secret Google foo.bar challenge!
 
+Special honour to my **first** projects:
+- :ship: [Battleship Game](https://github.com/yanamlnk/java-for-beginners/tree/main/battleship) :ship: - good old game for destroying opponent's battleships
+- :closed_lock_with_key: [Encryption-Decryption](https://github.com/yanamlnk/java-for-beginners/tree/main/encryption-decryption) :closed_lock_with_key: - application for encrypting and decrypting messages using some popular ciphers
+
