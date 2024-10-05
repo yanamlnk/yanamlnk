@@ -8,6 +8,7 @@ I can code in **Java** :coffee:, and here you can find some of my projects:
 - :blue_car: [Car Sharing](https://github.com/yanamlnk/car-sharing) :blue_car: - an application for managing car rental process 
 - :credit_card: [Simple Banking System](https://github.com/yanamlnk/simple-banking-system) :credit_card: - an application for creating bank accounts and managing their balances
 - :black_heart: [Simple To-Do Lists](https://github.com/yanamlnk/simple-todo-lists) :black_heart: - a website where you can create simple to-do lists and add elements to them
+- 👾 [Digital CV](https://github.com/yanamlnk/digital-cv) - well, the name is self-explanatory 😁 Frontend project (solely HTML and CSS)
 
 Also, I am a big fan of writing! My current **cheatsheets** are:
 
