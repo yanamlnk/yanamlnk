@@ -2,7 +2,7 @@
 
 My name is Yana, and the cutie on my avatar is my pokemon called Pika :heart: :zap:
 
-I can code in **Java** :coffee:, and here you can find some of my projects:
+I mostly code in **Java** :coffee: (with some Frontend, too), and here you can find some of my projects:
 
 - :tickets: [Cinema RESTful API](https://github.com/yanamlnk/cinema-rest-api) :tickets: - an api for buying or returning tickets of small cinema 
 - :blue_car: [Car Sharing](https://github.com/yanamlnk/car-sharing) :blue_car: - an application for managing car rental process 
