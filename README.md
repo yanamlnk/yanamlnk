@@ -12,7 +12,7 @@ Here you can find some of my projects:
 - :black_heart: [Simple To-Do Lists](https://github.com/yanamlnk/simple-todo-lists) :black_heart: - a website where you can create simple to-do lists and add elements to them
 - 👾 [Digital CV](https://github.com/yanamlnk/digital-cv) 👾 - well, the name is self-explanatory 😁 Frontend project (solely HTML and CSS)
 - 📝 [Hangman CLI Game](https://github.com/yanamlnk/hangman) 📝 - CLI Hangman game written in Python with possible cheat mode
-- 📰 [Job Board](https://github.com/yanamlnk/job-board)📰 - Group project: web application (React, Node.js) for a site with job offers
+- 📰 [Job Board](https://github.com/yanamlnk/job-board) 📰 - Group project: web application (React, Node.js) for a site with job offers
 
 Also, I am a big fan of writing! My current **cheatsheets** are:
 
