@@ -13,6 +13,7 @@ Here you can find some of my projects:
 - 👾 [Digital CV](https://github.com/yanamlnk/digital-cv) 👾 - well, the name is self-explanatory 😁 Frontend project (solely HTML and CSS)
 - 📝 [Hangman CLI Game](https://github.com/yanamlnk/hangman) 📝 - CLI Hangman game written in Python with possible cheat mode
 - 📰 [Job Board](https://github.com/yanamlnk/job-board) 📰 - Group project: web application (React, Node.js) for a site with job offers
+- 🐳 [PrepPal](https://github.com/yanamlnk/interview-tamagotchi) 🐳 - Group project: Tamagotchi game written in Java with JavaFX that help you to prepare for technical interview
 
 Also, I am a big fan of writing! My current **cheatsheets** are:
 
