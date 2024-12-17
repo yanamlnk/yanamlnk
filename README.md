@@ -12,13 +12,14 @@ Here you can find some of my projects:
 - :black_heart: [Simple To-Do Lists](https://github.com/yanamlnk/simple-todo-lists) :black_heart: - a website where you can create simple to-do lists and add elements to them
 - 👾 [Digital CV](https://github.com/yanamlnk/digital-cv) 👾 - well, the name is self-explanatory 😁 Frontend project (solely HTML and CSS)
 - 📝 [Hangman CLI Game](https://github.com/yanamlnk/hangman) 📝 - CLI Hangman game written in Python with possible cheat mode
-- 📰 [Job Board](https://github.com/yanamlnk/job-board) 📰 - Group project: web application (React, Node.js) for a site with job offers
-- 🐳 [PrepPal](https://github.com/yanamlnk/interview-tamagotchi) 🐳 - Group project: Tamagotchi game written in Java with JavaFX that help you to prepare for technical interview
+- 📰 [Job Board](https://github.com/yanamlnk/job-board) 📰 - group project: web application (React, Node.js) for a site with job offers
+- 🐳 [PrepPal](https://github.com/yanamlnk/interview-tamagotchi) 🐳 - group project: Tamagotchi game written in Java with JavaFX that help you to prepare for technical interview
 
 Also, I am a big fan of writing! My current **cheatsheets** are:
 
 - :elephant: [Gradle Notes](https://github.com/yanamlnk/gradle-notes) :elephant: - my cheatsheets for Gradle (and there is a chapter for :feather:[Maven](https://github.com/yanamlnk/gradle-notes/blob/main/contents/12-maven-notes/README.md):feather:, too!)
 - :rabbit: [Google Challenge](https://github.com/yanamlnk/google-challenge) :rabbit: - my explanations on tasks I have passes for secret Google foo.bar challenge!
+- 🔧 [You Shall Not Pass](https://github.com/yanamlnk/you-shall-not-pass) 🔧 - readme and files to create and configure 4 VMs (1 gateway, 1 nginx/mysql server, 2 clients)
 
 Special honour to my **first** projects:
 - :ship: [Battleship Game](https://github.com/yanamlnk/java-for-beginners/tree/main/battleship) :ship: - good old game for destroying opponent's battleships
