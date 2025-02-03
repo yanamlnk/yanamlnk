@@ -14,6 +14,7 @@ Here you can find some of my projects:
 - 📝 [Hangman CLI Game](https://github.com/yanamlnk/hangman) 📝 - CLI Hangman game written in Python with possible cheat mode
 - 📰 [Job Board](https://github.com/yanamlnk/job-board) 📰 - group project: web application (React, Node.js) for a site with job offers
 - 🐳 [PrepPal](https://github.com/yanamlnk/interview-tamagotchi) 🐳 - group project: Tamagotchi game written in Java with JavaFX that help you to prepare for technical interview
+- 📲 [Internet Relay Chat](https://github.com/yanamlnk/irc-server) 📲 - group project: chat application created with Socket.io, React, Node.js, Express, and Mongodb
 
 Also, I am a big fan of writing! My current **cheatsheets** are:
 
