@@ -22,6 +22,7 @@ Also, I am a big fan of writing! My current **cheatsheets** are:
 - :rabbit: [Google Challenge](https://github.com/yanamlnk/google-challenge) :rabbit: - my explanations on tasks I have passes for secret Google foo.bar challenge!
 - 🔧 [You Shall Not Pass](https://github.com/yanamlnk/you-shall-not-pass) 🔧 - readme and files to create and configure 4 VMs (1 gateway, 1 nginx/mysql server, 2 clients)
 - 🐳 [Docker Cheatsheet](https://github.com/yanamlnk/docker-cheatsheet) 🐳 - cheatsheet for the essentials of the Docker and Docker Compose with its implementation
+- 🤵🏻‍♂️ [Jenkins Tutorial](https://github.com/yanamlnk/jenkins-dsl-tutorial/) 🤵🏻‍♂️ - tutorial on how to configure Jenkins with YAML and create first jobs with Groovy
 
 Special honour to my **first** projects:
 - :ship: [Battleship Game](https://github.com/yanamlnk/java-for-beginners/tree/main/battleship) :ship: - good old game for destroying opponent's battleships
